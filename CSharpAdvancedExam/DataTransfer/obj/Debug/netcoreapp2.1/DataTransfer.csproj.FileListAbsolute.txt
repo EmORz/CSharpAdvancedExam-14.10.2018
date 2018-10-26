@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\CSharpAdvancedExam\DataTransfer\bin\Debug\netcoreapp2.1\DataTransfer.deps.json
+C:\Users\User\source\repos\CSharpAdvancedExam\DataTransfer\bin\Debug\netcoreapp2.1\DataTransfer.runtimeconfig.json
+C:\Users\User\source\repos\CSharpAdvancedExam\DataTransfer\bin\Debug\netcoreapp2.1\DataTransfer.runtimeconfig.dev.json
+C:\Users\User\source\repos\CSharpAdvancedExam\DataTransfer\bin\Debug\netcoreapp2.1\DataTransfer.dll
+C:\Users\User\source\repos\CSharpAdvancedExam\DataTransfer\bin\Debug\netcoreapp2.1\DataTransfer.pdb
+C:\Users\User\source\repos\CSharpAdvancedExam\DataTransfer\obj\Debug\netcoreapp2.1\DataTransfer.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CSharpAdvancedExam\DataTransfer\obj\Debug\netcoreapp2.1\DataTransfer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharpAdvancedExam\DataTransfer\obj\Debug\netcoreapp2.1\DataTransfer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharpAdvancedExam\DataTransfer\obj\Debug\netcoreapp2.1\DataTransfer.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharpAdvancedExam\DataTransfer\obj\Debug\netcoreapp2.1\DataTransfer.dll
+C:\Users\User\source\repos\CSharpAdvancedExam\DataTransfer\obj\Debug\netcoreapp2.1\DataTransfer.pdb
