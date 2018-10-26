@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\CSharpAdvancedExam\\Tangram\\Tangram.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\CSharpAdvancedExam-14.10.2018\\CSharpAdvancedExam\\Tangram\\Tangram.csproj",
       "projectName": "Tangram",
-      "projectPath": "C:\\Users\\User\\source\\repos\\CSharpAdvancedExam\\Tangram\\Tangram.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\CSharpAdvancedExam-14.10.2018\\CSharpAdvancedExam\\Tangram\\Tangram.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\CSharpAdvancedExam\\Tangram\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\CSharpAdvancedExam-14.10.2018\\CSharpAdvancedExam\\Tangram\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

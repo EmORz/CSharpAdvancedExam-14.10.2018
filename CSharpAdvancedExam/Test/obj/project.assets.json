@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\CSharpAdvancedExam\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\CSharpAdvancedExam-14.10.2018\\CSharpAdvancedExam\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\User\\source\\repos\\CSharpAdvancedExam\\Test\\Test.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\CSharpAdvancedExam-14.10.2018\\CSharpAdvancedExam\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\CSharpAdvancedExam\\Test\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\CSharpAdvancedExam-14.10.2018\\CSharpAdvancedExam\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

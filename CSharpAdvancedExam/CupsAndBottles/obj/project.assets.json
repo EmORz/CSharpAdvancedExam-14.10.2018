@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\CSharpAdvancedExam\\CupsAndBottles\\CupsAndBottles.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\CSharpAdvancedExam-14.10.2018\\CSharpAdvancedExam\\CupsAndBottles\\CupsAndBottles.csproj",
       "projectName": "CupsAndBottles",
-      "projectPath": "C:\\Users\\User\\source\\repos\\CSharpAdvancedExam\\CupsAndBottles\\CupsAndBottles.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\CSharpAdvancedExam-14.10.2018\\CSharpAdvancedExam\\CupsAndBottles\\CupsAndBottles.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\CSharpAdvancedExam\\CupsAndBottles\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\CSharpAdvancedExam-14.10.2018\\CSharpAdvancedExam\\CupsAndBottles\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

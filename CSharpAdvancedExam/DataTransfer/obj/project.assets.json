@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\CSharpAdvancedExam\\DataTransfer\\DataTransfer.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\CSharpAdvancedExam-14.10.2018\\CSharpAdvancedExam\\DataTransfer\\DataTransfer.csproj",
       "projectName": "DataTransfer",
-      "projectPath": "C:\\Users\\User\\source\\repos\\CSharpAdvancedExam\\DataTransfer\\DataTransfer.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\CSharpAdvancedExam-14.10.2018\\CSharpAdvancedExam\\DataTransfer\\DataTransfer.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\CSharpAdvancedExam\\DataTransfer\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\CSharpAdvancedExam-14.10.2018\\CSharpAdvancedExam\\DataTransfer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
